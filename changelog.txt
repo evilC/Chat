@@ -1,0 +1,8 @@
+Key:
+! : Warning
+* : Comment
+= : Change / Fix
++ : Added feature
+
+1.0 11th Oct 2013
+* Initial release
