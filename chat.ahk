@@ -23,7 +23,7 @@ msgcount := 10
 
 ; Stuff for the About box
 
-ADHD.config_about({name: "Chat", version: 1.0, author: "evilC", link: "<a href="""">Homepage</a>"})
+ADHD.config_about({name: "Chat", version: 1.0, author: "evilC", link: "<a href=""http://mwomercs.com/forums/topic/139152-"">Homepage</a>"})
 ; The default application to limit hotkeys to.
 ; Starts disabled by default, so no danger setting to whatever you want
 ADHD.config_default_app("CryENGINE")
